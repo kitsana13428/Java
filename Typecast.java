@@ -1,8 +1,10 @@
 class typecast {
     public static void main(String[] args) {
-        //แปลงค่า เล็ก -> ใหญ่
+        //แปลงค่า เล็ก -> ใหญ่ 
+        /*
         int numInt = 10;
         double numDouble = numInt;
+        */
 
         //แปลงค่าจาก ใหญ่ -> เล็ก
         double numDouble = 10.0;
