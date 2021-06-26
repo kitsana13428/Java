@@ -5,6 +5,8 @@ public class CompareBasic {
        
         System.out.println(a+ " มีค่าเท่ากับ " +b+" จริงหรือไม่ = "+(a==b));
         System.out.println(a+ " ไม่เท่ากับ " +b+" จริงหรือไม่ = "+(a!=b));
+        System.out.println(a+ " มากกว่า " +b+" จริงหรือไม่ = "+(a>b));
+        System.out.println(a+ " น้อยกว่า " +b+" จริงหรือไม่ = "+(a<b));
 
     }
 }
