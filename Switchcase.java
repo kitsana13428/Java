@@ -1,4 +1,3 @@
-import java.lang.invoke.SwitchPoint;
 import java.util.Scanner;
 public class Switchcase {
     public static void main(String[] args) {
