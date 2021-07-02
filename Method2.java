@@ -9,6 +9,7 @@ public class Method2 {
     static void display(String message){ //message parameter
         //กลุ่มคำสั่งที่อยากให้ทำงาน
         System.out.println("แสดงคำว่า = "+message);
+    
 
     }
     
