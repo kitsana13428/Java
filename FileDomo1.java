@@ -4,7 +4,7 @@ public class FileDomo1 {
         //สร้างไฟล์พร้อมเขียน
         try {
             FileWriter writer = new FileWriter(new File ("Test.txt"));
-            writer.write("Hello World");
+            writer.write("Hello World 123");
             writer.close();
             System.out.println("เขียนไฟล์เสร็จแล้วครับ");
         } catch (Exception e) {
