@@ -8,6 +8,8 @@ public class ExcaptionDemo1 {
 
         }catch(Exception e){ //ถ้าติด Exception จะแสดงข้อความ
             System.out.println("ห้ามหารด้วย 0");
+        }finally{
+            System.out.println("ทำคำสั่งอื่นๆ....");
         }
     }
 }
