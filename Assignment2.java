@@ -1,6 +1,7 @@
 import java.util.Scanner;
 class Assignment2{
     public static void main(String[] args) {
+        //หาค่ามากกว่า หรือ น้อยกว่า 2 ตัวเลข
         Scanner kb=new Scanner(System.in);
 
         //ป้อนค่าเลขตัวที่ 1

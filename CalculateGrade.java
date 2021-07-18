@@ -17,7 +17,7 @@ public class CalculateGrade {
                 scoreStr = scoreStr.trim(); //trim ลบช่องวรรคออก
                 double score = Double.parseDouble(scoreStr); //แปลงสติงเป็น => ดับเบิ้ล
 
-                if(score>=80){
+                if(score>=80){ 
                     grade = "A";
                 }else if(score>=70){
                     grade = "B";

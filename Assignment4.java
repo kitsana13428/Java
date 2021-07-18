@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Assignment4 {
     public static void main(String[] args) {
+        //คำนวณ bmi แบบละเอียด
         Scanner sc=new Scanner(System.in);
         //ป้อนน้ำหนัก
         System.out.print("ป้อนน้ำหนัก (kg) :");

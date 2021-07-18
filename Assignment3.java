@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Assignment3 {
     public static void main(String[] args) {
+        //หาเลขคู่ หรือ คี่
         Scanner kb=new Scanner(System.in);
 
         System.out.print("ป้อนเลขจำนวนเต็ม : ");
